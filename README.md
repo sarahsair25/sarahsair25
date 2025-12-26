@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sarah Sair
-**Data Scientist | ML Engineer | Prompt Engineer | NLP • LLMs • RAG • Machine Learning • Multi-Agent AI Workflows ||chicago , USA   **
+ ML Engineer | Prompt Engineer | NLP • LLMs • RAG • Machine Learning • Multi-Agent AI Workflows ||chicago , USA   
 
 - 🔭 **I’m currently working on:** I work on independent Data Science, Machine Learning, NLP, and AI Engineering projects focused on solving real-world problems with end-to-end analytical and AI workflows. My work spans ML modeling, data preprocessing, EDA, LLM/RAG pipelines, automation, and cloud-based experimentation.
 
