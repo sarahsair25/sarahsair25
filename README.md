@@ -1,15 +1,12 @@
-# 💫 Hi 👋, I'm Sarah Sair
- 
-Entry-Level AI / Python Developer | NLP • Prompt Engineering |chicago , USA 
+💫 Hi, I’m Sarah Sair 👋
+Entry-Level AI & Python Developer focused on NLP, automation, and practical AI systems.
 
-- 🔭 **I’m currently working on:** I work on independent Data Science, Machine Learning, NLP, and AI Engineering projects focused on solving real-world problems with end-to-end analytical and AI workflows. My work spans ML modeling, data preprocessing, EDA, LLM/RAG pipelines, automation, and cloud-based experimentation.
+🔭 I build end-to-end projects across data analysis, machine learning, NLP, and AI engineering — from data preprocessing and EDA to model development, LLM/RAG pipelines, and workflow automation.
 
-- 🌱 **I’m currently learning:** Data Analytics | Python + SQL + Power BI
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+🌱 Currently learning Data Analytics with Python, SQL, and Power BI.
 
-- 📫 **How to reach me:** sarahsair@gmail.com
-- 😄 **Pronouns:** Sarah Sair
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📍 Chicago, USA
+
 
 - <!-- Snake Game Repo View -->
 
