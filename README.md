@@ -1,37 +1,118 @@
-## 👋 Hi, I’m Sarah Sair
-**Entry-Level Python & AI Developer | NLP • Automation • Data Analytics**
+<p align="center"><img width="1536" height="1024" alt="profile banner" src="https://github.com/user-attachments/assets/79f7a5ff-b28f-48d9-a9d9-5d15f793ac00" />
 
-I am an entry-level **Python and AI developer** with hands-on experience building real-world 
-projects in **natural language processing (NLP), automation, and data analytics**.
+ 
 
-My projects cover the full development lifecycle — from **data preprocessing and exploratory 
-data analysis (EDA)** to **model development, NLP pipelines, and workflow automation**. 
-I focus on writing clean, modular, and maintainable Python code.
+<h1 align="center">Hi, I'm Sarah 👋</h1>
 
-🌱 Currently learning **Data Analytics with Python, SQL, and Power BI**  
-📍 Chicago, USA
+<h3 align="center">Python Developer | NLP • Flask • Automation</h3>
 
 ---
 
-## 🛠 Tech Stack
+## 👩‍💻 About Me
+
+I am a passionate **Python Developer** with hands-on experience building real-world projects in  
+**backend development, natural language processing (NLP), and automation**.
+
+My focus is on writing **clean, modular, and maintainable code**, solving practical problems,  
+and continuously improving my skills through hands-on development.
+
+I enjoy working with Python-based technologies and turning ideas into functional applications.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 NLTK-Based Chatbot (Flask Web App)
+- Built a rule-based **AI chatbot** using **NLTK**, **TF-IDF**, and **cosine similarity**
+- Integrated with a **Flask backend** and interactive **HTML/CSS UI**
+- Implemented text preprocessing, tokenization, and lemmatization
+- REST API communication using JSON
+
+**Tech Stack:** Python, Flask, NLTK, Scikit-learn, HTML, CSS
+
+---
+
+### 🏋️ Gym Membership Management System
+- Python-based system using **CSV file handling**
+- Supports membership plans, user data management, and input validation
+- Designed using **object-oriented programming (OOP)** principles
+- Focused on data processing and clean architecture
+
+**Tech Stack:** Python, CSV, OOP
+
+---
+
+### ⚙️ Python Automation & File Handling
+- Automation scripts for processing structured data
+- Focus on input validation, error handling, and efficiency
+- Designed to simplify repetitive tasks
+
+**Tech Stack:** Python
+
+---
+
+### 🧠 Python Logic & Problem Solving
+- Collection of programs focused on algorithms and logical thinking
+- Emphasis on performance, readability, and maintainability
+
+---
+
+### 🌐 Backend Utilities
+- Modular Python utilities supporting backend workflows
+- Designed for scalability and reusability
+
+---
+
+## 🛠 Technical Skills
 
 **Languages & Core**
 - Python
-- SQL
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
 
-**AI / NLP / Data**
+**AI / NLP**
+- Natural Language Processing (NLP)
 - NLTK
-- Scikit-learn
-- Pandas
-- NumPy
+- Text Preprocessing
+- TF-IDF
+- Cosine Similarity
 
-**Backend & Tools**
+**Backend & Web**
 - Flask
 - REST APIs
-- Git & GitHub
+- JSON
+- HTML
+- CSS
 
-**Analytics & Visualization**
-- Power BI
+**Data & Automation**
+- CSV File Handling
+- Data Processing
+- Automation Scripts
+
+**Tools**
+- Git
+- GitHub
+- Debugging
+- Error Handling
+
+---
+
+## 📈 What I'm Working On
+- Improving NLP chatbot accuracy
+- Expanding backend Flask applications
+- Writing cleaner and more scalable Python code
+- Learning advanced backend and AI concepts
+
+---
+
+## 🤝 Let's Connect
+
+- 🧠 GitHub: https://github.com/sarahsair25
+
+---
+
+⭐ If you find my projects interesting, feel free to explore, fork, or star them!
+
 
 ---
 
