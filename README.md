@@ -42,16 +42,7 @@ I enjoy working with Python-based technologies and turning ideas into functional
 
 ---
 
-### ⚙️ Python Automation & File Handling
-- Automation scripts for processing structured data
-- Focus on input validation, error handling, and efficiency
-- Designed to simplify repetitive tasks
-
-**Tech Stack:** Python
-
----
-
-### 🧠 Python Logic & Problem Solving
+## 🧠 Python Logic & Problem Solving
 - Collection of programs focused on algorithms and logical thinking
 - Emphasis on performance, readability, and maintainability
 
@@ -108,7 +99,7 @@ I enjoy working with Python-based technologies and turning ideas into functional
 ## 🤝 Let's Connect
 
 - 🧠 GitHub: https://github.com/sarahsair25
-
+      LinkedIn:https://www.linkedin.com/in/sarah-sair-08b51452
 ---
 
 ⭐ If you find my projects interesting, feel free to explore, fork, or star them!
