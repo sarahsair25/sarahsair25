@@ -87,7 +87,7 @@ Focused on data processing and clean architecture
 
 🛠  **Technical Skills**
 
-Languages & Core
+**Languages & Core**
 
 Python
 
@@ -95,7 +95,7 @@ Object-Oriented Programming (OOP)
 
 Data Structures & Algorithms
 
-Machine Learning & Data Science
+**Machine Learning & Data Science**
 
 Machine Learning
 
@@ -111,7 +111,7 @@ Model Evaluation (Precision, Recall, F1-score)
 
 Handling Imbalanced Data
 
-AI / NLP
+**AI / NLP**
 
 Natural Language Processing (NLP)
 
@@ -123,7 +123,7 @@ TF-IDF
 
 Cosine Similarity
 
-Backend & Web
+**Backend & Web**
 
 Flask
 
@@ -135,7 +135,7 @@ HTML
 
 CSS
 
-Tools
+**Tools**
 
 Git
 
