@@ -30,7 +30,7 @@ I enjoy uncovering patterns in data, building predictive models, and translating
 
 ## 🚀 Featured Projects
 
- #📊** Customer Churn Prediction (Machine Learning)**
+ **📊 Customer Churn Prediction (Machine Learning)**
 
 Built an end-to-end ML system to predict customer churn using real telecom data
 
@@ -44,7 +44,7 @@ Focused on business-driven insights for customer retention
 
 ---
 
- #**💳 Credit Card Fraud Detection System (Machine Learning & Data Science)**
+ **💳 Credit Card Fraud Detection System (Machine Learning & Data Science)**
 
 Developed a fraud detection system using real-world financial transaction data
 
@@ -57,7 +57,7 @@ Focused on minimizing false positives and false negatives
 Tech Stack: Python, Pandas, NumPy, Scikit-learn, Data Science
 ---
 
-#🤖** NLTK-Based Chatbot (Flask Web App)**
+🤖 **NLTK-Based Chatbot (Flask Web App)**
 
 Built a rule-based AI chatbot using NLTK, TF-IDF, and cosine similarity
 
@@ -67,13 +67,11 @@ Implemented text preprocessing, tokenization, and lemmatization
 
 REST API communication using JSON
 
-Tech Stack: Python, Flask, NLTK, Scikit-learn, HTML, CSS
-
 **Tech Stack:** Python, Flask, NLTK, Scikit-learn, HTML, CSS
 
 ---
 
-🏋️** Gym Membership Management System**
+**🏋️ Gym Membership Management System**
 
 Python-based system using CSV file handling
 
@@ -83,12 +81,12 @@ Designed using object-oriented programming (OOP) principles
 
 Focused on data processing and clean architecture
 
-
 **Tech Stack:**: Python, CSV, OOP
 
 ---
 
-🛠**** Technical Skills****
+🛠  **Technical Skills**
+
 Languages & Core
 
 Python
@@ -151,7 +149,7 @@ Error Handling
 
 
 ---
-📈** What I’m Working On**
+📈  **What I’m Working On**
 
 Building ML model monitoring & drift detection systems
 
