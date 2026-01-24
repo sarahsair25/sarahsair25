@@ -1,12 +1,13 @@
 
-<img width="1536" height="1024" alt="github banner" src="https://github.com/user-attachments/assets/e8dc3f6e-a482-4a01-9170-f52211640990" />
+<img width="1536" height="1024" alt="banner (2)" src="https://github.com/user-attachments/assets/2e3eaf7b-1049-4bcd-889d-c43b7d11db05" />
+
+
 
  
 
-<h1 align="center">Hi, I'm Sarah 👋</h1>
+
 
 <h3 align="center">Hi, I’m Sarah 👋  
-Entry-Level AI & Python Developer | Machine Learning • Data Science • Fraud & Churn Prediction
 
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-0A1F44?style=for-the-badge&logo=databricks&logoColor=FFD43B)
