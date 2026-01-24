@@ -20,15 +20,33 @@ Entry-Level AI & Python Developer | Machine Learning • Data Science • Fraud 
 ## 👩‍💻 About Me
 
 
-I’m an Entry-Level AI & Python Developer with a strong focus on Machine Learning and Data Science, passionate about building data-driven solutions that solve real-world business problems.
+I’m an AI Prompt Engineer / AI Engineer focused on designing, evaluating, and optimizing prompts for Large Language Models (LLMs) to produce reliable, accurate, and production-ready outputs.
 
-I work on end-to-end machine learning projects—from data cleaning and exploratory data analysis (EDA) to feature engineering, model training, evaluation, and interpretation. My recent projects include Customer Churn Prediction and Credit Card Fraud Detection, where I worked with real, highly imbalanced datasets and focused on production-relevant evaluation metrics.
+My work centers on prompt architecture, chain-of-thought reasoning, evaluation loops, and safety guardrails—treating prompt engineering as an engineering discipline rather than trial-and-error. I enjoy bridging human intent and machine execution by translating complex requirements into structured, testable LLM instructions.
 
-I enjoy uncovering patterns in data, building predictive models, and translating technical results into actionable insights. Through hands-on projects, I’ve strengthened my skills in Python, Scikit-learn, Pandas, NumPy, and model evaluation using precision, recall, F1-score, and confusion matrices.
+What I specialize in:
 
----
+• Prompt engineering using Few-Shot, Zero-Shot, Chain-of-Thought, and ReAct techniques
+• Prompt optimization to reduce hallucinations and improve reasoning consistency
+• LLM evaluation & benchmarking across models (e.g., GPT-4, Gemini, Claude)
+• Guardrails, fallback logic, and responsible AI constraints
+• Python-based prompt pipelines, validation, and analysis
+• Production-oriented GenAI workflows and documentation
+
+Recently, I created a 7-page Prompt Engineering Case Study demonstrating how structured prompt design, evaluation, and guardrails improved LLM reliability and reduced hallucinations by 30–40%. This project reflects the type of work I’m passionate about: building safe, dependable, and scalable AI systems.
+
+I also bring a strong foundation in Python, machine learning, NLP, and data analysis, which helps me collaborate effectively with engineers and reason about AI systems beyond prompts alone.
 
 ## 🚀 Featured Projects
+
+**📌 Featured on my profile **
+• Prompt Engineering Case Study (PDF + GitHub)
+• LLM & AI Engineering projects
+
+This case study demonstrates how structured prompt design, evaluation, and guardrails
+significantly improve LLM reliability and reduce hallucinations.
+
+**Tech Stack**:Python • JSON • Regex Pattern Matching • OOP Design • API Integration • Error Handling • CSV/JSONL Reporting
 
  **📊 Customer Churn Prediction (Machine Learning)**
 
