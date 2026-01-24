@@ -1,6 +1,4 @@
-
-<img width="1536" height="1024" alt="banner (2)" src="https://github.com/user-attachments/assets/2e3eaf7b-1049-4bcd-889d-c43b7d11db05" />
-
+<img width="1536" height="1024" alt="ChatGPT Image Jan 24, 2026, 01_06_40 PM" src="https://github.com/user-attachments/assets/45b7021e-2440-440d-b3a2-5038910400da" />
 
 
  
