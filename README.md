@@ -9,11 +9,11 @@
 
 <h3 align="center">Hi, I’m Sarah 👋  
 
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)
+![Providers](https://img.shields.io/badge/Providers-3-success.svg)
 
-![Data Science](https://img.shields.io/badge/Data%20Science-0A1F44?style=for-the-badge&logo=databricks&logoColor=FFD43B)
-![NLP](https://img.shields.io/badge/NLP-0A1F44?style=for-the-badge&logo=natural-language-processing&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-0A1F44?style=for-the-badge&logo=flask&logoColor=FFD43B)
-</h3>
 
 
 ---
