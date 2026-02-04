@@ -20,7 +20,7 @@
 ## 👩‍💻 About Me
 
 
-Hi, I’m Sarah 👋
+Hi, I’m Sarah  
 I’m an AI / GenAI Engineer focused on designing, evaluating, and operationalizing LLM-powered systems that are reliable, testable, and production-ready.
 
 I approach prompt engineering as an engineering discipline, not trial-and-error. My work emphasizes structured prompt design, evaluation loops, and safety guardrails—treating LLMs as components in systems rather than standalone black boxes. I enjoy bridging human intent and machine execution by translating complex requirements into clear, constrained, and testable instructions.
