@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Hi, I’m Sarah 👋  
+<h3 align="center">  
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -19,90 +19,88 @@
 ## 👩‍💻 About Me
 
 
-I’m an AI Prompt Engineer / AI Engineer focused on designing, evaluating, and optimizing prompts for Large Language Models (LLMs) to produce reliable, accurate, and production-ready outputs.
+Hi, I’m Sarah 👋
+I’m an AI / GenAI Engineer focused on designing, evaluating, and operationalizing LLM-powered systems that are reliable, testable, and production-ready.
 
-My work centers on prompt architecture, chain-of-thought reasoning, evaluation loops, and safety guardrails—treating prompt engineering as an engineering discipline rather than trial-and-error. I enjoy bridging human intent and machine execution by translating complex requirements into structured, testable LLM instructions.
+I approach prompt engineering as an engineering discipline, not trial-and-error. My work emphasizes structured prompt design, evaluation loops, and safety guardrails—treating LLMs as components in systems rather than standalone black boxes. I enjoy bridging human intent and machine execution by translating complex requirements into clear, constrained, and testable instructions.
 
-What I specialize in:
 
-• Prompt engineering using Few-Shot, Zero-Shot, Chain-of-Thought, and ReAct techniques
-• Prompt optimization to reduce hallucinations and improve reasoning consistency
-• LLM evaluation & benchmarking across models (e.g., GPT-4, Gemini, Claude)
-• Guardrails, fallback logic, and responsible AI constraints
-• Python-based prompt pipelines, validation, and analysis
-• Production-oriented GenAI workflows and documentation
+**🧠 What I Specialize In**
 
-Recently, I created a 7-page Prompt Engineering Case Study demonstrating how structured prompt design, evaluation, and guardrails improved LLM reliability and reduced hallucinations by 30–40%. This project reflects the type of work I’m passionate about: building safe, dependable, and scalable AI systems.
+Prompt engineering using Zero-Shot, Few-Shot, Chain-of-Thought, and ReAct techniques
 
-I also bring a strong foundation in Python, machine learning, NLP, and data analysis, which helps me collaborate effectively with engineers and reason about AI systems beyond prompts alone.
+Prompt optimization to reduce hallucinations and improve reasoning consistency
 
-## 🚀 Featured Projects
+LLM evaluation & benchmarking across models (e.g., GPT-4, Gemini, Claude)
 
-**📌 Featured on my profile **
-• Prompt Engineering Case Study (PDF + GitHub)
-• LLM & AI Engineering projects
+Guardrails, fallback logic, and responsible AI constraints
 
-This case study demonstrates how structured prompt design, evaluation, and guardrails
-significantly improve LLM reliability and reduce hallucinations.
+Python-based prompt pipelines, validation, and analysis
 
-**Tech Stack**:Python • JSON • Regex Pattern Matching • OOP Design • API Integration • Error Handling • CSV/JSONL Reporting
+Production-oriented GenAI workflows, documentation, and reproducibility
 
- **📊 Customer Churn Prediction (Machine Learning)**
+**📌 Featured Work**
+📄 Prompt Engineering Case Study (PDF + GitHub)
 
-Built an end-to-end ML system to predict customer churn using real telecom data
+A 7-page case study demonstrating how structured prompt design, evaluation frameworks, and guardrails improved LLM reliability and reduced hallucinations by 30–40%.
 
-Performed data cleaning, EDA, and feature engineering
+This project reflects the type of work I’m most passionate about: building safe, dependable, and scalable GenAI systems.
 
-Trained and evaluated classification models using Scikit-learn
+**Tech Stack:**
 
-Focused on business-driven insights for customer retention
+Python · JSON · Regex · API Integration · OOP · Error Handling · CSV / JSONL Reporting
 
-**Tech Stack**: Python, Pandas, NumPy, Scikit-learn, Machine Learning
+**🚀 Selected Projects**
 
----
+**📊 Customer Churn Prediction (Machine Learning)**
 
- **💳 Credit Card Fraud Detection System (Machine Learning & Data Science)**
+• Built an end-to-end ML system to predict customer churn using real telecom data
 
-Developed a fraud detection system using real-world financial transaction data
+• Performed data cleaning, EDA, and feature engineering
 
-Handled severely imbalanced datasets, a common production ML challenge
+• Trained and evaluated classification models using scikit-learn
 
-Evaluated models using precision, recall, F1-score, and confusion matrices
+• Focused on business-driven insights for customer retention
 
-Focused on minimizing false positives and false negatives
+**Tech**: Python, Pandas, NumPy, scikit-learn, Machine Learning
 
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Data Science
----
+**💳 Credit Card Fraud Detection System**
 
-🤖 **NLTK-Based Chatbot (Flask Web App)**
+• Developed a fraud detection system using real-world financial transaction data
 
-Built a rule-based AI chatbot using NLTK, TF-IDF, and cosine similarity
+• Addressed severely imbalanced datasets, a common production ML challenge
 
-Integrated with a Flask backend and interactive HTML/CSS UI
+• Evaluated models using precision, recall, F1-score, and confusion matrices
 
-Implemented text preprocessing, tokenization, and lemmatization
+• Focused on minimizing both false positives and false negatives
 
-REST API communication using JSON
+**Tech**: Python, Pandas, NumPy, scikit-learn, Data Science
 
-**Tech Stack:** Python, Flask, NLTK, Scikit-learn, HTML, CSS
+**🤖 NLTK-Based Chatbot (Flask Web App)**
 
----
+• Built a rule-based chatbot using NLTK, TF-IDF, and cosine similarity
+
+• Integrated with a Flask backend and interactive HTML/CSS UI
+
+• Implemented text preprocessing, tokenization, and lemmatization
+
+• Exposed chatbot functionality via REST APIs using JSON
+
+**Tech**: Python, Flask, NLTK, scikit-learn, HTML, CSS
 
 **🏋️ Gym Membership Management System**
 
-Python-based system using CSV file handling
+• Python-based system using CSV file handling
 
-Supports membership plans, user data management, and input validation
+• Supports membership plans, user data management, and input validation
 
-Designed using object-oriented programming (OOP) principles
+• Designed using object-oriented programming (OOP) principles
 
-Focused on data processing and clean architecture
+• Focused on clean architecture and data processing
 
-**Tech Stack:**: Python, CSV, OOP
+**Tech**: Python, CSV, OOP
 
----
-
-🛠  **Technical Skills**
+**🛠 Technical Skills**
 
 **Languages & Core**
 
@@ -114,76 +112,60 @@ Data Structures & Algorithms
 
 **Machine Learning & Data Science**
 
-Machine Learning
+• Machine Learning, Data Science
 
-Data Science
+• Classification Models
 
-Classification Models
+• Feature Engineering
 
-Feature Engineering
+• Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis (EDA)
+• Model Evaluation (Precision, Recall, F1-score)
 
-Model Evaluation (Precision, Recall, F1-score)
-
-Handling Imbalanced Data
+• Handling Imbalanced Data
 
 **AI / NLP**
 
-Natural Language Processing (NLP)
+• Large Language Models (LLMs)
 
-NLTK
+•Prompt Engineering
 
-Text Preprocessing
+• Natural Language Processing (NLP)
 
-TF-IDF
+• NLTK
 
-Cosine Similarity
+•TF-IDF, Cosine Similarity
 
 **Backend & Web**
 
-Flask
+• Flask
 
-REST APIs
+• REST APIs
 
-JSON
+• JSON
 
-HTML
-
-CSS
+• HTML, CSS
 
 **Tools**
 
-Git
+• Git, GitHub
 
-GitHub
+• Debugging & Error Handling
 
-Debugging
+**📈 What I’m Working On**
 
-Error Handling
+• ML model monitoring and drift detection
 
+• Improving ML evaluation and interpretability
 
----
+• Writing cleaner, scalable, production-ready Python code
 
-
-
----
-📈  **What I’m Working On**
-
-Building ML model monitoring & drift detection systems
-
-Improving ML evaluation and interpretability
-
-Writing cleaner, scalable, production-ready Python code
-
-Expanding backend and ML engineering skills
-
----
+• Expanding backend, ML engineering, and GenAI system design skills
 
 ## 🤝 **Let's Connect**
 
 - 🧠 GitHub: https://github.com/sarahsair25
-      LinkedIn:https://www.linkedin.com/in/sarah-sair-08b51452
+      LinkedIn:https://www.linkedin.com/in/sarahsair
 ---
 
 ⭐ If you find my projects interesting, feel free to explore, fork, or star them!
