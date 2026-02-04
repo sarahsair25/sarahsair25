@@ -28,17 +28,17 @@ I approach prompt engineering as an engineering discipline, not trial-and-error.
 
 **🧠 What I Specialize In**
 
-Prompt engineering using Zero-Shot, Few-Shot, Chain-of-Thought, and ReAct techniques
+• Prompt engineering using Zero-Shot, Few-Shot, Chain-of-Thought, and ReAct techniques
 
-Prompt optimization to reduce hallucinations and improve reasoning consistency
+• Prompt optimization to reduce hallucinations and improve reasoning consistency
 
-LLM evaluation & benchmarking across models (e.g., GPT-4, Gemini, Claude)
+• LLM evaluation & benchmarking across models (e.g., GPT-4, Gemini, Claude)
 
-Guardrails, fallback logic, and responsible AI constraints
+• Guardrails, fallback logic, and responsible AI constraints
 
-Python-based prompt pipelines, validation, and analysis
+• Python-based prompt pipelines, validation, and analysis
 
-Production-oriented GenAI workflows, documentation, and reproducibility
+• Production-oriented GenAI workflows, documentation, and reproducibility
 
 **📌 Featured Work**
 📄 Prompt Engineering Case Study (PDF + GitHub)
