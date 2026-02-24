@@ -1,9 +1,10 @@
 
+<img width="1536" height="1024" alt="Tech portfolio for AI and data" src="https://github.com/user-attachments/assets/08cbccc5-43a3-4ba9-aa65-08fd89ef1a8e" />
 
 
 
 <p align="center">
-  <img src="assets/banner.png" alt="Data Analytics & GenAI Engineer Banner" width="100%">
+  
 </p>
 
 <h1 align="center">Sarah Sair</h1>
