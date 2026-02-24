@@ -1,167 +1,183 @@
 
 
-<img width="1536" height="1024" alt="banner (2)" src="https://github.com/user-attachments/assets/aacec349-68cc-41d4-a7ac-3b653af0c099" />
-
- 
 
 
+<p align="center">
+  <img src="assets/banner.png" alt="Data Analytics & GenAI Engineer Banner" width="100%">
+</p>
 
-<h3 align="center">  
+<h1 align="center">Sarah Sair</h1>
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)
-![Providers](https://img.shields.io/badge/Providers-3-success.svg)
+<h3 align="center">
+Junior AI / GenAI Engineer & Data Scientist  
+</h3>
 
+<p align="center">
+Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Generative%20AI-blue" />
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791" />
+  <img src="https://img.shields.io/badge/Python-Data%20Science-yellow" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-success" />
+</p>
+
+# Hi, I’m Sarah 👋  
+### Junior AI / GenAI Engineer & Data Scientist  
+**Data Analytics | SQL | Python | RAG | LLM Apps | Machine Learning**
+
+I build AI and data systems that are structured, testable, and production-aware.
+
+With 13+ years of technical systems experience, I approach AI, ML, and analytics with a strong engineering mindset — focusing on reliability, evaluation, performance, and clean data modeling.
+
+My work spans:
+- Generative AI & RAG systems  
+- Machine Learning pipelines  
+- SQL-based analytics platforms  
+- Data cleaning & performance modeling  
+
+I specialize in turning raw data and human intent into scalable, measurable solutions.
 
 ---
 
-## 👩‍💻 About Me
+# 🤖 GenAI & LLM Engineering
 
+I treat prompt engineering as a system design discipline — not trial and error.
 
-Hi, I’m Sarah  
-I’m an AI / GenAI Engineer focused on designing, evaluating, and operationalizing LLM-powered systems that are reliable, testable, and production-ready.
+### Core Focus:
+- Prompt engineering (Zero-Shot, Few-Shot, Chain-of-Thought, ReAct)
+- Retrieval-Augmented Generation (RAG)
+- LLM evaluation & benchmarking
+- Guardrails & fallback logic
+- Structured prompt validation pipelines
+- API-based LLM integrations
 
-I approach prompt engineering as an engineering discipline, not trial-and-error. My work emphasizes structured prompt design, evaluation loops, and safety guardrails—treating LLMs as components in systems rather than standalone black boxes. I enjoy bridging human intent and machine execution by translating complex requirements into clear, constrained, and testable instructions.
+### 📄 Featured Work: Prompt Engineering Case Study
+A structured case study demonstrating how evaluation loops and guardrails improved LLM reliability and reduced hallucinations by 30–40%.
 
+**Tech:** Python · OpenAI API · JSON · Regex · Evaluation Frameworks
 
-**🧠 What I Specialize In**
+---
 
-• Prompt engineering using Zero-Shot, Few-Shot, Chain-of-Thought, and ReAct techniques
+# 📊 Data Analytics & SQL Projects
 
-• Prompt optimization to reduce hallucinations and improve reasoning consistency
+## 🧠 SQL Mentor — User Performance Analysis (PostgreSQL)
 
-• LLM evaluation & benchmarking across models (e.g., GPT-4, Gemini, Claude)
+Built an end-to-end analytics pipeline to model user performance and engagement patterns.
 
-• Guardrails, fallback logic, and responsible AI constraints
+- Designed staging → clean schema
+- Developed leaderboard, streak, and rolling 7-day metrics
+- Modeled question difficulty (avg / median / negative-rate)
+- Optimized queries using indexing
 
-• Python-based prompt pipelines, validation, and analysis
+**Tech:** PostgreSQL · Advanced SQL · Window Functions · KPI Modeling
 
-• Production-oriented GenAI workflows, documentation, and reproducibility
+---
 
-**📌 Featured Work**
-📄 Prompt Engineering Case Study (PDF + GitHub)
+## 🛒 SQL-Only E-Commerce Analytics Platform
 
-A 7-page case study demonstrating how structured prompt design, evaluation frameworks, and guardrails improved LLM reliability and reduced hallucinations by 30–40%.
+Designed a complete SQL-based analytics system for transactional e-commerce data.
 
-This project reflects the type of work I’m most passionate about: building safe, dependable, and scalable GenAI systems.
+- Built revenue, AOV, LTV, and retention metrics
+- Implemented cohort and trend analysis
+- Created reusable reporting views
+- Modeled business performance KPIs
 
-**Tech Stack:**
+**Tech:** PostgreSQL · SQL · Aggregations · Window Functions
 
-Python · JSON · Regex · API Integration · OOP · Error Handling · CSV / JSONL Reporting
+---
 
-**🚀 Selected Projects**
+## 📁 Sales Data Cleaning (SQL Server / SSMS)
 
-**📊 Customer Churn Prediction (Machine Learning)**
+Developed a structured data-cleaning pipeline to transform raw CSV sales data into analytics-ready datasets.
 
-• Built an end-to-end ML system to predict customer churn using real telecom data
+- Implemented staging → clean workflow
+- Standardized inconsistent categorical fields
+- Recomputed missing/mismatched totals
+- Applied deduplication and validation logic
 
-• Performed data cleaning, EDA, and feature engineering
+**Tech:** SQL Server · T-SQL · Data Cleaning · ETL Concepts
 
-• Trained and evaluated classification models using scikit-learn
+---
 
-• Focused on business-driven insights for customer retention
+# 🧠 Machine Learning Projects
 
-**Tech**: Python, Pandas, NumPy, scikit-learn, Machine Learning
+## 📊 Customer Churn Prediction
 
-**💳 Credit Card Fraud Detection System**
+Built an end-to-end ML pipeline for churn prediction using telecom data.
 
-• Developed a fraud detection system using real-world financial transaction data
+- Data cleaning & feature engineering
+- Model training & evaluation
+- Business-driven retention insights
 
-• Addressed severely imbalanced datasets, a common production ML challenge
+**Tech:** Python · Pandas · scikit-learn · Classification
 
-• Evaluated models using precision, recall, F1-score, and confusion matrices
+---
 
-• Focused on minimizing both false positives and false negatives
+## 💳 Credit Card Fraud Detection
 
-**Tech**: Python, Pandas, NumPy, scikit-learn, Data Science
+Developed a fraud detection model addressing severe class imbalance.
 
-**🤖 NLTK-Based Chatbot (Flask Web App)**
+- Precision/Recall optimization
+- Confusion matrix & F1-score evaluation
+- False positive minimization strategy
 
-• Built a rule-based chatbot using NLTK, TF-IDF, and cosine similarity
+**Tech:** Python · Pandas · scikit-learn
 
-• Integrated with a Flask backend and interactive HTML/CSS UI
+---
 
-• Implemented text preprocessing, tokenization, and lemmatization
+# 🛠 Application Development
 
-• Exposed chatbot functionality via REST APIs using JSON
+## 🤖 NLP Chatbot (Flask App)
 
-**Tech**: Python, Flask, NLTK, scikit-learn, HTML, CSS
+- Built a rule-based chatbot with TF-IDF & cosine similarity
+- Integrated REST API backend
+- Implemented preprocessing & lemmatization
 
-**🏋️ Gym Membership Management System**
+**Tech:** Python · Flask · NLTK · HTML · CSS
 
-• Python-based system using CSV file handling
+---
 
-• Supports membership plans, user data management, and input validation
+# 🔧 Technical Stack
 
-• Designed using object-oriented programming (OOP) principles
+### Languages
+Python · SQL
 
-• Focused on clean architecture and data processing
+### Databases
+PostgreSQL · SQL Server
 
-**Tech**: Python, CSV, OOP
+### AI / GenAI
+LLMs · Prompt Engineering · RAG · OpenAI API · Evaluation Frameworks
 
-**🛠 Technical Skills**
+### Machine Learning
+scikit-learn · Classification · Clustering · Model Evaluation
 
-**Languages & Core**
+### Data Analytics
+Data Modeling · Window Functions · KPI Design · Cohort Analysis · ETL
 
-Python
+### Tools
+Git · GitHub · Flask · REST APIs · Debugging
 
-Object-Oriented Programming (OOP)
+---
 
-Data Structures & Algorithms
+# 📈 Currently Building
 
-**Machine Learning & Data Science**
+- Advanced RAG pipelines with evaluation scoring
+- ML monitoring & drift detection
+- SQL performance optimization techniques
+- Production-ready AI system design
 
-• Machine Learning, Data Science
+---
 
-• Classification Models
+I’m continuously learning, building, and refining practical AI and data systems.
 
-• Feature Engineering
+Let’s connect if you're interested in structured AI engineering, clean data modeling, or analytics-driven system design.
 
-• Exploratory Data Analysis (EDA)
 
-• Model Evaluation (Precision, Recall, F1-score)
 
-• Handling Imbalanced Data
 
-**AI / NLP**
 
-• Large Language Models (LLMs)
-
-•Prompt Engineering
-
-• Natural Language Processing (NLP)
-
-• NLTK
-
-•TF-IDF, Cosine Similarity
-
-**Backend & Web**
-
-• Flask
-
-• REST APIs
-
-• JSON
-
-• HTML, CSS
-
-**Tools**
-
-• Git, GitHub
-
-• Debugging & Error Handling
-
-**📈 What I’m Working On**
-
-• ML model monitoring and drift detection
-
-• Improving ML evaluation and interpretability
-
-• Writing cleaner, scalable, production-ready Python code
-
-• Expanding backend, ML engineering, and GenAI system design skills
 
 ## 🤝 **Let's Connect**
 
