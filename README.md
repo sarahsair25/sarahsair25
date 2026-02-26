@@ -10,7 +10,7 @@
 <h1 align="center">Sarah Sair</h1>
 
 <h3 align="center">
-Junior AI / GenAI Engineer & Data Scientist  
+ AI / GenAI Engineer & Data Scientist  
 </h3>
 
 <p align="center">
