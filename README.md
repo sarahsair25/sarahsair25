@@ -25,7 +25,7 @@ Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
 </p>
 
 # Hi, I’m Sarah 👋  
-### Junior AI / GenAI Engineer & Data Scientist  
+###  AI / GenAI Engineer & Data Scientist  
 **Data Analytics | SQL | Python | RAG | LLM Apps | Machine Learning**
 
 I build AI and data systems that are structured, testable, and production-aware.
