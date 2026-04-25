@@ -30,7 +30,7 @@ Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
 
 I build AI and data systems that are structured, testable, and production-aware.
 
-With 13+ years of technical systems experience, I approach AI, ML, and analytics with a strong engineering mindset — focusing on reliability, evaluation, performance, and clean data modeling.
+With 10+ years of technical systems experience, I approach AI, ML, and analytics with a strong engineering mindset — focusing on reliability, evaluation, performance, and clean data modeling.
 
 My work spans:
 - Generative AI & RAG systems  
