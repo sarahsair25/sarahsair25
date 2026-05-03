@@ -10,7 +10,8 @@
 <h1 align="center">Sarah Sair</h1>
 
 <h3 align="center">
- AI / GenAI Engineer & Data Scientist  
+Generative AI Engineer | Prompt Engineer | AI Automation Specialist
+ 
 </h3>
 
 <p align="center">
