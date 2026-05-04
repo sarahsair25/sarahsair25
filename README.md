@@ -10,7 +10,8 @@
 <h1 align="center">Sarah Sair</h1>
 
 <h3 align="center">
-Generative AI Engineer | Prompt Engineer | AI Automation Specialist
+
+AI Systems Engineer (Generative AI • LLMs • Data Engineering)
  
 </h3>
 
@@ -26,41 +27,52 @@ Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
 </p>
 
 # Hi, I’m Sarah 👋  
-###  AI / GenAI Engineer & Data Scientist  
-**Data Analytics | SQL | Python | RAG | LLM Apps | Machine Learning**
+###  AI Systems Engineer (Generative AI • LLMs • Data Engineering)
+**Prompt Engineering  | SQL | Python | RAG | LLM Apps | Machine Learning**
 
 I build AI and data systems that are structured, testable, and production-aware.
-
-With 10+ years of technical systems experience, I approach AI, ML, and analytics with a strong engineering mindset — focusing on reliability, evaluation, performance, and clean data modeling.
-
-My work spans:
-- Generative AI & RAG systems  
-- Machine Learning pipelines  
-- SQL-based analytics platforms  
-- Data cleaning & performance modeling  
-
+My focus is on building:
+Reliable LLM applications
+Scalable RAG systems
+Production-style AI automation workflows
+Data-driven machine learning systems
 I specialize in turning raw data and human intent into scalable, measurable solutions.
 
----
+🧠 What I Do
 
-# 🤖 GenAI & LLM Engineering
+### 🤖 Generative AI & LLM Systems
+• Prompt engineering (Few-shot, Chain-of-Thought, ReAct)
+• RAG pipelines (retrieval + grounding + structured output)
+• LLM evaluation & benchmarking
+• Guardrails, fallback logic, and structured outputs
+• API-based LLM integration (OpenAI, Claude, LLaMA, Gemini)
 
-I treat prompt engineering as a system design discipline — not trial and error.
+### ⚙️ AI Automation & Systems Design
+• End-to-end AI workflow automation (Python + APIs + tools)
+• Multi-step AI pipelines for real-world tasks
+• Human-in-the-loop (HITL) system design
+• Prompt chaining and structured reasoning systems
 
-### Core Focus:
-- Prompt engineering (Zero-Shot, Few-Shot, Chain-of-Thought, ReAct)
-- Retrieval-Augmented Generation (RAG)
-- LLM evaluation & benchmarking
-- Guardrails & fallback logic
-- Structured prompt validation pipelines
-- API-based LLM integrations
+### 📊 Data Engineering & Analytics##
+• SQL-based analytics systems (PostgreSQL, SQL Server)
+• ETL pipelines and data modeling (star schema, KPI design)
+• Cohort analysis, retention modeling, and business metrics
+• Power BI dashboards with DAX calculations
 
-### 📄 Featured Work: Prompt Engineering Case Study
-A structured case study demonstrating how evaluation loops and guardrails improved LLM reliability and reduced hallucinations by 30–40%.
+### 🧠 Machine Learning
+•  Classification, regression, clustering (scikit-learn)
+•  Feature engineering and model evaluation
+•  Fraud detection and churn prediction systems
+•  ML pipelines integrated with data workflows
 
-**Tech:** Python · OpenAI API · JSON · Regex · Evaluation Frameworks
+### 🔥 Featured Projects
 
----
+### Prompt Engineering Evaluation System
+
+•  A structured framework for testing and improving LLM outputs
+• A/B testing for prompts
+• Output validation system
+• Reduced hallucinations by improving prompt structure (30–40%)
 
 # 📊 Data Analytics & SQL Projects
 
@@ -139,7 +151,6 @@ Developed a fraud detection model addressing severe class imbalance.
 
 **Tech:** Python · Flask · NLTK · HTML · CSS
 
----
 
 # 🔧 Technical Stack
 
@@ -150,7 +161,7 @@ Python · SQL
 PostgreSQL · SQL Server
 
 ### AI / GenAI
-LLMs · Prompt Engineering · RAG · OpenAI API · Evaluation Frameworks
+ GPT, Claude, LLaMA, Gemini, RAG, Prompt Engineering
 
 ### Machine Learning
 scikit-learn · Classification · Clustering · Model Evaluation
@@ -165,32 +176,40 @@ Git · GitHub · Flask · REST APIs · Debugging
 
 # 📈 Currently Building
 
-- Advanced RAG pipelines with evaluation scoring
-- ML monitoring & drift detection
-- SQL performance optimization techniques
-- Production-ready AI system design
+- Production-grade RAG systems with evaluation scoring
+- LLM workflow automation pipelines
+- ML monitoring & drift detection systems
+- Advanced prompt optimization frameworks
+- Scalable AI system architectures
 
----
+### 🎯 What I’m Looking For
 
-I’m continuously learning, building, and refining practical AI and data systems.
+I’m actively open to opportunities in:
+• Generative AI Engineering
+• Prompt Engineering
+• AI Systems Engineering
+•LLM Application Development
+•Data Engineering / AI Automation Roles
 
-Let’s connect if you're interested in structured AI engineering, clean data modeling, or analytics-driven system design.
+### 📬 Let’s Connect
 
-
-
-
-
-
-## 🤝 **Let's Connect**
+If you're working on:
+• LLM applications
+• AI automation systems
+• RAG-based products
+• Data + AI hybrid systems
 
 - 🧠 GitHub: https://github.com/sarahsair25
       LinkedIn:https://www.linkedin.com/in/sarahsair
----
 
-⭐ If you find my projects interesting, feel free to explore, fork, or star them!
+⭐ If you find my work useful
 
+Feel free to:
 
----
+⭐ Star repositories
+🍴 Fork projects
+🤝 Reach out for collaboration
+
 
 ## 📊 GitHub Stats
 
