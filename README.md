@@ -11,8 +11,7 @@
 
 <h3 align="center">
 
- ### Generative AI & Data Engineer 
-###  LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python · SQL
+ ### Generative AI & Data Engineer | LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python · SQL
  
 </h3>
 
