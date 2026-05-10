@@ -11,7 +11,8 @@
 
 <h3 align="center">
 
-AI and Data Engineer  (Generative AI • LLMs • Data Engineering)
+ ### Generative AI & Data Engineer 
+###  LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python · SQL
  
 </h3>
 
@@ -27,7 +28,8 @@ Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
 </p>
 
 # Hi, I’m Sarah 👋  
-### Generative AI & Data Engineer | LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python · SQL
+### Generative AI & Data Engineer 
+### LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python · SQL
 
 I build AI and data systems that are structured, testable, and production-aware.
 My focus is on building:
