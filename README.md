@@ -25,10 +25,7 @@ LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
   <img src="https://img.shields.io/badge/Python-Data%20Science-yellow" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-success" />
 </p>
-<p align="center">
-
-
-📍 Chicago, IL · 💼 Open to Remote Roles
+<p align="center">📍 Chicago, IL · 💼 Open to Remote Roles
 
 > *"Most AI demos break. I build the systems that don't."
 </p>
