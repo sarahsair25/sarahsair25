@@ -58,7 +58,7 @@ Classification, regression, and clustering with scikit-learn. Feature engineerin
 A production-grade harness for testing LLM prompts systematically ,not by eyeballing output. 
 - Four-dimensional weighted scoring (JSON structure, required keys, safety compliance, content rules). 
 - Simulated OpenAI provider for continuous testing without API costs. 100% pass rate on test suite. 
--Reduced hallucinations 30–40% through structured prompt optimization.
+- Reduced hallucinations 30–40% through structured prompt optimization.
 - Tech: `Python` `OpenAI API` `Prompt Engineering` `LLM Evaluation`
 
 ---
