@@ -26,198 +26,155 @@ Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-success" />
 </p>
 
-# Hi, I’m Sarah 👋  
-### Generative AI & Data Engineer 
-### LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python · SQL
+# Hi, I'm Sarah Sair 👋
 
-I build AI and data systems that are structured, testable, and production-aware.
-My focus is on building:
-Reliable LLM applications
-Scalable RAG systems
-Production-style AI automation workflows
-Data-driven machine learning systems
-I specialize in turning raw data and human intent into scalable, measurable solutions.
+### Generative AI & Data Engineer | LLM Systems | RAG | Prompt Engineering
+### GPT-4 · Claude · Gemini · Python · SQL · Chicago, IL
 
-🧠 What I Do
+> "Most AI demos break. I build the systems that don't."
+
+---
+
+## 🌐 Portfolio
+👉 **[View My Full Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/)**
+
+---
+
+## 👩‍💻 About Me
+I build AI and data systems that are **structured, testable, and production-aware** — not just impressive in a sandbox.
+
+With **10+ years of IT infrastructure** behind me, I approach every build asking:
+- Is it **reliable** under edge cases?
+- Is it **scalable** under load?
+- Is it **measurable** over time?
+
+---
+
+## 🛠️ What I Build
 
 ### 🤖 Generative AI & LLM Systems
-• Prompt engineering (Few-shot, Chain-of-Thought, ReAct)
-• RAG pipelines (retrieval + grounding + structured output)
-• LLM evaluation & benchmarking
-• Guardrails, fallback logic, and structured outputs
-• API-based LLM integration (OpenAI, Claude, LLaMA, Gemini)
+- Prompt engineering — Few-shot, Chain-of-Thought, ReAct
+- RAG pipelines — retrieval, grounding & structured output
+- LLM evaluation, benchmarking & hallucination detection
+- Guardrails, fallback logic & structured outputs
+- API integration — OpenAI, Claude, LLaMA, Gemini
 
 ### ⚙️ AI Automation & Systems Design
-• End-to-end AI workflow automation (Python + APIs + tools)
-• Multi-step AI pipelines for real-world tasks
-• Human-in-the-loop (HITL) system design
-• Prompt chaining and structured reasoning systems
+- End-to-end AI workflow automation — Python + APIs
+- Multi-step AI pipelines for real-world tasks
+- Human-in-the-loop (HITL) system design
+- Prompt chaining and structured reasoning systems
 
-### 📊 Data Engineering & Analytics##
-• SQL-based analytics systems (PostgreSQL, SQL Server)
-• ETL pipelines and data modeling (star schema, KPI design)
-• Cohort analysis, retention modeling, and business metrics
-• Power BI dashboards with DAX calculations
+### 📊 Data Engineering & Analytics
+- SQL analytics systems — PostgreSQL, SQL Server
+- ETL pipelines and data modeling — star schema, KPI design
+- Cohort analysis, retention modeling & business metrics
+- Power BI dashboards with DAX calculations
 
 ### 🧠 Machine Learning
-•  Classification, regression, clustering (scikit-learn)
-•  Feature engineering and model evaluation
-•  Fraud detection and churn prediction systems
-•  ML pipelines integrated with data workflows
-
-### 🔥 Featured Projects
-
-### Prompt Engineering Evaluation System
-
-•  A structured framework for testing and improving LLM outputs
-• A/B testing for prompts
-• Output validation system
-• Reduced hallucinations by improving prompt structure (30–40%)
-
-# 📊 Data Analytics & SQL Projects
-
-## 🧠 SQL Mentor — User Performance Analysis (PostgreSQL)
-
-Built an end-to-end analytics pipeline to model user performance and engagement patterns.
-
-- Designed staging → clean schema
-- Developed leaderboard, streak, and rolling 7-day metrics
-- Modeled question difficulty (avg / median / negative-rate)
-- Optimized queries using indexing
-
-**Tech:** PostgreSQL · Advanced SQL · Window Functions · KPI Modeling
+- Classification, regression, clustering — scikit-learn
+- Feature engineering and model evaluation
+- Fraud detection and churn prediction systems
+- ML pipelines integrated with data workflows
 
 ---
 
-## 🛒 SQL-Only E-Commerce Analytics Platform
-
-Designed a complete SQL-based analytics system for transactional e-commerce data.
-
-- Built revenue, AOV, LTV, and retention metrics
-- Implemented cohort and trend analysis
-- Created reusable reporting views
-- Modeled business performance KPIs
-
-**Tech:** PostgreSQL · SQL · Aggregations · Window Functions
-
----
-
-## 📁 Sales Data Cleaning (SQL Server / SSMS)
-
-Developed a structured data-cleaning pipeline to transform raw CSV sales data into analytics-ready datasets.
-
-- Implemented staging → clean workflow
-- Standardized inconsistent categorical fields
-- Recomputed missing/mismatched totals
-- Applied deduplication and validation logic
-
-**Tech:** SQL Server · T-SQL · Data Cleaning · ETL Concepts
+## 📊 Results That Speak
+| Metric | Result |
+|--------|--------|
+| Manual work reduction | ~70% |
+| Hallucination rate cut | ~40% |
+| Pipeline turnaround | ~60% faster |
+| Reporting time saved | ~50% |
+| F1-Score average | 0.85+ |
+| AI use cases delivered | 10+ |
 
 ---
 
-# 🧠 Machine Learning Projects
+## 🔥 Featured Projects
 
-## 📊 Customer Churn Prediction
+### 🧪 Prompt Engineering Evaluation System
+A structured framework for testing and improving LLM outputs
+- A/B testing for prompts & output validation
+- Reduced hallucinations by **30–40%** via optimized prompt structure
+- Tech: `Python` `OpenAI API` `Prompt Engineering` `LLM Evaluation`
 
-Built an end-to-end ML pipeline for churn prediction using telecom data.
+---
 
-- Data cleaning & feature engineering
-- Model training & evaluation
+### 📊 SQL Mentor — User Performance Analysis
+End-to-end analytics pipeline modeling user performance & engagement
+- Leaderboard, streak & rolling 7-day metrics
+- Question difficulty modeling & query optimization
+- Tech: `PostgreSQL` `Advanced SQL` `Window Functions` `KPI Modeling`
+
+---
+
+### 🛒 SQL-Only E-Commerce Analytics Platform
+Complete SQL-based analytics system for transactional data
+- Revenue, AOV, LTV & retention metrics
+- Cohort analysis & reusable reporting views
+- Tech: `PostgreSQL` `SQL` `Aggregations` `Window Functions`
+
+---
+
+### 📊 Customer Churn Prediction
+End-to-end ML pipeline for churn prediction using telecom data
+- Feature engineering, model training & evaluation
 - Business-driven retention insights
-
-**Tech:** Python · Pandas · scikit-learn · Classification
+- Tech: `Python` `Pandas` `scikit-learn` `Classification`
 
 ---
 
-## 💳 Credit Card Fraud Detection
-
-Developed a fraud detection model addressing severe class imbalance.
-
-- Precision/Recall optimization
-- Confusion matrix & F1-score evaluation
+### 💳 Credit Card Fraud Detection
+Fraud detection model addressing severe class imbalance
+- Precision/Recall optimization & F1-score evaluation
 - False positive minimization strategy
-
-**Tech:** Python · Pandas · scikit-learn
-
----
-
-# 🛠 Application Development
-
-## 🤖 NLP Chatbot (Flask App)
-
-- Built a rule-based chatbot with TF-IDF & cosine similarity
-- Integrated REST API backend
-- Implemented preprocessing & lemmatization
-
-**Tech:** Python · Flask · NLTK · HTML · CSS
-
-
-# 🔧 Technical Stack
-
-### Languages
-Python · SQL
-
-### Databases
-PostgreSQL · SQL Server
-
-### AI / GenAI
- GPT, Claude, LLaMA, Gemini, RAG, Prompt Engineering
-
-### Machine Learning
-scikit-learn · Classification · Clustering · Model Evaluation
-
-### Data Analytics
-Data Modeling · Window Functions · KPI Design · Cohort Analysis · ETL
-
-### Tools
-Git · GitHub · Flask · REST APIs · Debugging
+- Tech: `Python` `Pandas` `scikit-learn`
 
 ---
 
-# 📈 Currently Building
+### 🤖 NLP Chatbot — Flask App
+Rule-based chatbot with TF-IDF & cosine similarity
+- REST API backend & preprocessing pipeline
+- Tech: `Python` `Flask` `NLTK` `HTML` `CSS`
 
-- Production-grade RAG systems with evaluation scoring
-- LLM workflow automation pipelines
-- ML monitoring & drift detection systems
-- Advanced prompt optimization frameworks
-- Scalable AI system architectures
+---
 
-### 🎯 What I’m Looking For
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-I’m actively open to opportunities in:
-• Generative AI Engineering
-• Prompt Engineering
-• AI Systems Engineering
-•LLM Application Development
-•Data Engineering / AI Automation Roles
+---
 
-### 📬 Let’s Connect
+## 📈 Currently Building
+- 🔧 Production-grade RAG systems with evaluation scoring
+- ⚡ LLM workflow automation pipelines
+- 📊 ML monitoring & drift detection systems
+- 🧪 Advanced prompt optimization frameworks
+- 🏗️ Scalable AI system architectures
 
-If you're working on:
-• LLM applications
-• AI automation systems
-• RAG-based products
-• Data + AI hybrid systems
+---
 
-- 🧠 GitHub: https://github.com/sarahsair25
-      LinkedIn:https://www.linkedin.com/in/sarahsair
+## 🎯 Open To Opportunities
+**100% Remote · Full-Time**
 
-⭐ If you find my work useful
+Actively looking for roles in:
+- 🤖 Generative AI Engineering
+- ✍️ Prompt Engineering
+- ⚙️ AI Systems Engineering
+- 🔗 LLM Application Development
+- 📊 Data Engineering & AI Automation
 
-Feel free to:
+---
 
-⭐ Star repositories
-🍴 Fork projects
-🤝 Reach out for collaboration
-
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sarahsair25&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=sarahsair25&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsair25&theme=dark&layout=compact)
-
-
-
-
-
+## 📬 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://sarah-sair-ai-7044ftv.gamma.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahsair)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarahsair@gmail.com)
