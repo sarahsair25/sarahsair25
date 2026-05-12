@@ -26,22 +26,6 @@ LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-success" />
 </p>
 
-# Hi, I'm Sarah Sair 👋
-
-### Generative AI & Data Engineer | LLM Systems | RAG | Prompt Engineering
-### GPT-4 · Claude · Gemini · Python · SQL · Chicago, IL
-
- "Most AI demos break. I build the systems that don't."
-# Sarah Sair 👋
-
-### Generative AI & Data Engineer
-#### LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 📍 Chicago, IL · 💼 Open to Remote Roles
 
