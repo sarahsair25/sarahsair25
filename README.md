@@ -11,12 +11,12 @@
 
 <h3 align="center">
 
- ### Generative AI & Data Engineer | LLM Systems · RAG · Prompt Engineering | GPT-4 · Claude · Gemini · Python 
+ ### Generative AI & Data Engineer
  
 </h3>
 
 <p align="center">
-Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
+LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
 </p>
 
 <p align="center">
