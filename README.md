@@ -27,7 +27,7 @@ LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
 </p>
 <p align="center">📍 Chicago, IL · 💼 Open to Remote Roles
 
-> *"Most AI demos break. I build the systems that don't."
+<p align="center">"Most AI demos break. I build the systems that don't."
 </p>
 
 
