@@ -5,11 +5,11 @@
 
 <p align="center">
   
-</p> ### Generative AI & Data Engineer
+</p>
 
 <h1 align="center">Sarah Sair</h1>
 
-<h3 align="center">
+<h3 align="center"> ### Generative AI & Data Engineer
 
 
  
