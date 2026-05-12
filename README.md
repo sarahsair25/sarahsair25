@@ -17,7 +17,7 @@ I spent 10 years building IT infrastructure before I moved into AI. That backgro
 
 Right now I'm focused on LLM systems, RAG pipelines, and the evaluation infrastructure that makes AI actually trustworthy in production.
 
-**→ [View my full portfolio](https://sarahsair25.github.io)**  case studies, live projects, and documented results.
+**→ [View my full portfolio](https://sarah-sair-ai-7044ftv.gamma.site)**  case studies, live projects, and documented results.
 
 ---
 
@@ -118,4 +118,4 @@ Production-grade RAG systems with evaluation scoring. LLM workflow automation pi
 
 Full-time remote roles in Generative AI Engineering, Prompt Engineering, AI Systems Engineering, LLM Application Development, and Data Engineering.
 
-**[Portfolio](https://sarahsair25.github.io) · [LinkedIn](https://linkedin.com/in/sarahsair) · [Email](mailto:sarah@example.com)**
+**[Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/) · [LinkedIn](https://linkedin.com/in/sarahsair) · [Email](mailto:sarahsair@gmail.com.com)**
