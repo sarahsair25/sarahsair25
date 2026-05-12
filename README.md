@@ -59,39 +59,48 @@ A production-grade harness for testing LLM prompts systematically — not by eye
 
 ---
 
-**SQL Mentor — User Performance Analysis**
-End-to-end analytics pipeline modeling user behavior and learning progression. Leaderboard systems, streak tracking, rolling 7-day engagement metrics, and question difficulty modeling. Built for scale and query performance from the start.
-`PostgreSQL` `Window Functions` `KPI Modeling` `Advanced SQL`
+SQL Mentor — User Performance Analysis
+ End-to-end analytics pipeline modeling user performance & engagement
+- Leaderboard, streak & rolling 7-day metrics
+- Question difficulty modeling & query optimization
+- Tech: `PostgreSQL` `Advanced SQL` `Window Functions` `KPI Modeling`
 
 ---
 
 **E-Commerce Analytics Platform (SQL-Only)**
-Complete analytics system for transactional data — revenue, AOV, LTV, retention, and cohort analysis — built entirely in SQL with reusable reporting views. No external dependencies.
-`PostgreSQL` `Cohort Analysis` `Window Functions`
+Complete SQL-based analytics system for transactional data
+- Revenue, AOV, LTV & retention metrics
+- Cohort analysis & reusable reporting views
+- Tech: `PostgreSQL` `SQL` `Aggregations` `Window Functions`
 
 ---
 
 **Customer Churn Prediction**
-End-to-end ML pipeline using telecom data. Feature engineering, model training, evaluation, and business-driven retention insights. Built to be interpretable, not just accurate.
-`Python` `Pandas` `scikit-learn` `Classification`
+End-to-end ML pipeline for churn prediction using telecom data
+- Feature engineering, model training & evaluation
+- Business-driven retention insights
+- Tech: `Python` `Pandas` `scikit-learn` `Classification`
+
 
 ---
 
 **Credit Card Fraud Detection**
-Fraud detection model addressing severe class imbalance. Precision/recall optimization with a deliberate false-positive minimization strategy — because in fraud detection, what you don't flag matters as much as what you do.
-`Python` `scikit-learn` `Imbalanced Data`
+Fraud detection model addressing severe class imbalance
+- Precision/Recall optimization & F1-score evaluation
+- False positive minimization strategy
+- Tech: `Python` `Pandas` `scikit-learn`
 
 ---
 
 **NLP Chatbot (Flask App)**
-Rule-based chatbot with TF-IDF and cosine similarity matching. REST API backend, full preprocessing pipeline.
-`Python` `Flask` `NLTK`
-
+Rule-based chatbot with TF-IDF & cosine similarity
+- REST API backend & preprocessing pipeline
+- Tech: `Python` `Flask` `NLTK` `HTML` `CSS`
 ---
 
 ## Stack
 
-`Python` `SQL` `PostgreSQL` `OpenAI` `LangChain` `GPT-4` `Azure` `Power BI` `scikit-learn` `Flask` `GitHub`
+`Python` `SQL` `PostgreSQL` `OpenAI` `Gemini` `LLama` `Azure` `Power BI` `scikit-learn` `Flask` `GitHub`
 
 ---
 
