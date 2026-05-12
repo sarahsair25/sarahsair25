@@ -31,24 +31,21 @@ Data Analytics • SQL • Python • RAG • LLM Apps • Machine Learning
 ### Generative AI & Data Engineer | LLM Systems | RAG | Prompt Engineering
 ### GPT-4 · Claude · Gemini · Python · SQL · Chicago, IL
 
-> "Most AI demos break. I build the systems that don't."
+ "Most AI demos break. I build the systems that don't."
 
----
 
 ## 🌐 Portfolio
 👉 **[View My Full Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/)**
 
----
 
 ## 👩‍💻 About Me
-I build AI and data systems that are **structured, testable, and production-aware** — not just impressive in a sandbox.
+I build AI and data systems that are **structured, testable, and production-aware** 
 
 With **10+ years of IT infrastructure** behind me, I approach every build asking:
 - Is it **reliable** under edge cases?
 - Is it **scalable** under load?
 - Is it **measurable** over time?
 
----
 
 ## 🛠️ What I Build
 
@@ -77,7 +74,6 @@ With **10+ years of IT infrastructure** behind me, I approach every build asking
 - Fraud detection and churn prediction systems
 - ML pipelines integrated with data workflows
 
----
 
 ## 📊 Results That Speak
 | Metric | Result |
@@ -89,7 +85,6 @@ With **10+ years of IT infrastructure** behind me, I approach every build asking
 | F1-Score average | 0.85+ |
 | AI use cases delivered | 10+ |
 
----
 
 ## 🔥 Featured Projects
 
@@ -99,15 +94,12 @@ A structured framework for testing and improving LLM outputs
 - Reduced hallucinations by **30–40%** via optimized prompt structure
 - Tech: `Python` `OpenAI API` `Prompt Engineering` `LLM Evaluation`
 
----
-
 ### 📊 SQL Mentor — User Performance Analysis
 End-to-end analytics pipeline modeling user performance & engagement
 - Leaderboard, streak & rolling 7-day metrics
 - Question difficulty modeling & query optimization
 - Tech: `PostgreSQL` `Advanced SQL` `Window Functions` `KPI Modeling`
 
----
 
 ### 🛒 SQL-Only E-Commerce Analytics Platform
 Complete SQL-based analytics system for transactional data
@@ -115,15 +107,11 @@ Complete SQL-based analytics system for transactional data
 - Cohort analysis & reusable reporting views
 - Tech: `PostgreSQL` `SQL` `Aggregations` `Window Functions`
 
----
-
 ### 📊 Customer Churn Prediction
 End-to-end ML pipeline for churn prediction using telecom data
 - Feature engineering, model training & evaluation
 - Business-driven retention insights
 - Tech: `Python` `Pandas` `scikit-learn` `Classification`
-
----
 
 ### 💳 Credit Card Fraud Detection
 Fraud detection model addressing severe class imbalance
@@ -131,14 +119,11 @@ Fraud detection model addressing severe class imbalance
 - False positive minimization strategy
 - Tech: `Python` `Pandas` `scikit-learn`
 
----
-
-### 🤖 NLP Chatbot — Flask App
-Rule-based chatbot with TF-IDF & cosine similarity
+### 🤖 NLP Chatbot (Flask App)
+- Rule-based chatbot with TF-IDF & cosine similarity
 - REST API backend & preprocessing pipeline
 - Tech: `Python` `Flask` `NLTK` `HTML` `CSS`
 
----
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -151,7 +136,6 @@ Rule-based chatbot with TF-IDF & cosine similarity
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
 
 ## 📈 Currently Building
 - 🔧 Production-grade RAG systems with evaluation scoring
@@ -159,7 +143,6 @@ Rule-based chatbot with TF-IDF & cosine similarity
 - 📊 ML monitoring & drift detection systems
 - 🧪 Advanced prompt optimization frameworks
 - 🏗️ Scalable AI system architectures
-
 ---
 
 ## 🎯 Open To Opportunities
@@ -172,7 +155,6 @@ Actively looking for roles in:
 - 🔗 LLM Application Development
 - 📊 Data Engineering & AI Automation
 
----
 
 ## 📬 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://sarah-sair-ai-7044ftv.gamma.site/)
