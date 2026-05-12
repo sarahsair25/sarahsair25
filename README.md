@@ -17,7 +17,7 @@ I spent 10 years building IT infrastructure before I moved into AI. That backgro
 
 Right now I'm focused on LLM systems, RAG pipelines, and the evaluation infrastructure that makes AI actually trustworthy in production.
 
-**→ [View my full portfolio](https://sarahsair25.github.io)** — case studies, live projects, and documented results.
+**→ [View my full portfolio](https://sarahsair25.github.io)**  case studies, live projects, and documented results.
 
 ---
 
