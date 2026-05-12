@@ -1,4 +1,4 @@
-# Sarah Sair 👋
+# Sarah Sair 
 
 ### Generative AI & Data Engineer
 #### LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
