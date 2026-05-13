@@ -17,7 +17,6 @@ I spent 10 years building IT infrastructure before I moved into AI. That backgro
 
 Right now I'm focused on LLM systems, RAG pipelines, and the evaluation infrastructure that makes AI actually trustworthy in production.
 
-**→ [View my full portfolio](https://sarah-sair-ai-ngoaocq.gamma.site/)**  case studies, live projects, and documented results.
 
 ---
 
@@ -50,8 +49,6 @@ Classification, regression, and clustering with scikit-learn. Feature engineerin
 ---
 
 ## Projects
-
-*Full write-ups and live demos at **[https://sarah-sair-ai-ngoaocq.gamma.site/](https://sarah-sair-ai-ngoaocq.gamma.site/***
 
 ### [Prompt Engineering Evaluation Framework](https://github.com/sarahsair25/llm-prompt-engineering-case-study)
 
