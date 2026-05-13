@@ -108,7 +108,10 @@ Rule-based chatbot with TF-IDF & cosine similarity
 
 ## Currently Building
 
-Production-grade RAG systems with evaluation scoring. LLM workflow automation pipelines. ML monitoring and drift detection. Advanced prompt optimization frameworks.
+- Production-grade RAG systems with evaluation scoring
+- LLM workflow automation pipelines.
+- ML monitoring and drift detection.
+- Advanced prompt optimization frameworks.
 
 ---
 
