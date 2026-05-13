@@ -59,6 +59,7 @@ A production-grade harness for testing LLM prompts systematically ,not by eyebal
 - Tech: `Python` `OpenAI API` `Prompt Engineering` `LLM Evaluation`
 
 ---
+###[SQL Mentor — User Performance Analysis]((https://github.com/sarahsair25/SQL-Mentor-User-Performance-Analysis-SQL-Power-BI)
 
 ### [SQL Mentor — User Performance Analysis] (https://github.com/sarahsair25/SQL-Mentor-User-Performance-Analysis-SQL-Power-BI)
  End-to-end analytics pipeline modeling user performance & engagement
