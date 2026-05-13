@@ -67,7 +67,7 @@ Built an AI-powered Prompt Engineering Evaluation System that analyzes, scores, 
 - Designed a multi-dimensional prompt scoring framework measuring clarity, specificity, robustness, efficiency, and alignment, including hallucination-risk analysis and AI-generated optimization suggestions.
 - Implemented prompt versioning and head-to-head comparison workflows to track iterative improvements and evaluate prompt performance across different task types (RAG, summarization, reasoning, extraction, etc.).
 -Developed a full-stack React application integrated with the Anthropic Claude API for real-time prompt evaluation, refinement, and predicted output simulation.
-- Tech: `React18` `JavaScript` `Prompt Engineering` `LLM workflows` `Tailwind CSS` `Anthropic Claude API (Claude Sonnet 4)` 'AI Evaluation Systems`
+- Tech: `React18` `JavaScript` `Prompt Engineering` `LLM workflows` `Tailwind CSS` `Anthropic Claude API (Claude Sonnet 4)`  `AI Evaluation Systems`
 
 
 ---
