@@ -60,7 +60,7 @@ A production-grade harness for testing LLM prompts systematically ,not by eyebal
 
 ---
 
-SQL Mentor — User Performance Analysis
+### [SQL Mentor — User Performance Analysis] (https://github.com/sarahsair25/SQL-Mentor-User-Performance-Analysis-SQL-Power-BI)
  End-to-end analytics pipeline modeling user performance & engagement
 - Leaderboard, streak & rolling 7-day metrics
 - Question difficulty modeling & query optimization
