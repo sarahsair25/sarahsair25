@@ -111,9 +111,6 @@ Rule-based chatbot with TF-IDF & cosine similarity
 - Tech: `Python` `Flask` `NLTK` `HTML` `CSS`
 ---
 
-## Stack
-
-`Python` `SQL` `PostgreSQL` `OpenAI` `Gemini` `LLama` `Azure` `Power BI` `scikit-learn` `Flask` `GitHub`
 
 ---
 
@@ -124,6 +121,10 @@ Rule-based chatbot with TF-IDF & cosine similarity
 - ML monitoring and drift detection.
 - Advanced prompt optimization frameworks.
 
+---
+## Stack
+
+`Python` `SQL` `PostgreSQL` `OpenAI` `Gemini` `LLama` `Azure` `Power BI` `scikit-learn` `Flask` `GitHub`
 ---
 
 ## Open To
