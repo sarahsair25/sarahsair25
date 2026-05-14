@@ -1,4 +1,4 @@
-# Sarah Sair 
+# Sarah Sair 👋
 
 ### Generative AI & Data Engineer
 #### LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
@@ -9,9 +9,15 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-*Chicago, IL · Remote-Ready · Open to Opportunities*
+📍 Chicago, IL · 💼 Open to Remote Roles
+
+> *"Most AI demos break. I build the systems that don't."*
+
+
 
 ---
+
+
 
 I spent 10 years building IT infrastructure before I moved into AI. That background shapes how I work: I don't just build things that demo well. I build things that hold up under edge cases, under load, and over time.
 
