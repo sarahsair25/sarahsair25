@@ -19,7 +19,7 @@
 
 
 
-I spent 10 years building IT infrastructure before I moved into AI. That background shapes how I work: I don't just build things that demo well. I build things that hold up under edge cases, under load, and over time.
+I spent 6 plus years building IT infrastructure before I moved into AI. That background shapes how I work: I don't just build things that demo well. I build things that hold up under edge cases, under load, and over time.
 
 Right now I'm focused on LLM systems, RAG pipelines, and the evaluation infrastructure that makes AI actually trustworthy in production.
 
