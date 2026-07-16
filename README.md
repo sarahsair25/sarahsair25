@@ -9,7 +9,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-📍 Chicago, IL · 💼 Open to Remote Roles
+📍 Chicago, IL · 
 
 > *"Most AI demos break. I build the systems that don't."*
 
