@@ -1,6 +1,6 @@
 # Sarah Sair 
 
-### Generative AI & Data Engineer
+### Generative AI & LLM Engineer | Systems Architect
 #### LLM Systems · RAG · Prompt Engineering · AI Automation · Data Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
