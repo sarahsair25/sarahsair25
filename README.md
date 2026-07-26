@@ -137,4 +137,4 @@ Rule-based chatbot with TF-IDF & cosine similarity
 
 Full-time remote roles in Generative AI Engineering, Prompt Engineering, AI Systems Engineering, LLM Application Development, and Data Engineering.
 
-**[Portfolio](https://sarah-sair-ai-7044ftv.gamma.site/) · [LinkedIn](https://linkedin.com/in/sarahsair) · [Email](mailto:sarahsair@gmail.com.com)**
+** [LinkedIn](https://linkedin.com/in/sarahsair) · [Email](mailto:sarahsair@gmail.com.com)**
