@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarah Sair 👋</h1>
+<h1 align="center">Hi, I'm Sarah Sair </h1>
 <h3 align="center">Generative AI & LLM Engineer | Systems Architect</h3>
 
 <p align="center">
