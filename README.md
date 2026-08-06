@@ -56,7 +56,37 @@ Classification, regression, and clustering with scikit-learn. Feature engineerin
 
 ## Projects
 
-### [Prompt Engineering Evaluation Framework](https://github.com/sarahsair25/llm-prompt-engineering-case-study)
+### AI Resume Optimizer & Cover Letter Generator | AI-Powered Career Application Tool###
+- Engineered an AI-powered resume optimization platform using React and Claude AI that analyzes resumes against job descriptions, generating match scores, keyword gaps, missing skills, and actionable recommendations to help candidates create more targeted applications.
+- Developed an ATS-focused optimization engine that evaluates resumes across keyword alignment, relevance, impact, and formatting, transforming generic bullet points into stronger, achievement-driven statements optimized for recruiter visibility.
+- Built an AI cover letter generation workflow that combines resume data and job requirements to produce personalized, editable cover letters with instant regeneration and copy-to-clipboard functionality, reducing application preparation time.
+- Optimized application performance through Claude Haiku-powered PDF extraction, efficient token management, and lightweight text processing, enabling faster resume parsing and responsive AI-powered feedback while minimizing unnecessary API usage.
+
+### AI Content Generator by Zapier | AI-Powered Content Creation Platform ###
+- Engineered a full-stack AI content generation platform using React 18, Node.js, Express, Zapier, and the Anthropic Claude API, enabling users to generate high-quality content across six content formats with customizable tone and length.
+-Developed a secure streaming architecture using Server-Sent Events (SSE) to deliver token-by-token AI responses with real-time rendering, creating a fast, interactive writing experience while protecting API credentials through a backend proxy.
+-Built flexible content generation workflows supporting blog posts, social media content, product descriptions, emails, ad copy, and landing pages, along with multiple tone presets and output lengths to streamline content  creation for diverse marketing and business needs.
+- Designed a responsive React interface featuring Markdown rendering, raw output preview, and regenerate, stop, and copy controls, providing an intuitive user experience through a modular, scalable frontend architecture.
+
+ ### YouTube AI Automation System | AI-Powered Content Creation & Publishing Pipeline ###
+- Engineered an end-to-end YouTube automation pipeline using Python, Zapier, OpenAI GPT-4o, DALL·E 3, and the YouTube Data API, automating the complete content lifecycle from weekly idea generation to video publication.
+- Developed AI-driven workflows that generate SEO-optimized video titles, scripts, descriptions, tags, and thumbnail prompts, reducing manual content creation while producing consistent, platform-ready assets for each       upload.
+- Integrated Zapier scheduling with Python automation and the YouTube Data API to enable fully automated weekly publishing, streamlining content operations and delivering faster, hands-free content production.
+- Designed a modular, API-first architecture that orchestrates multiple AI services for content generation, publishing, and analytics, creating a scalable and maintainable automation framework for recurring YouTube          workflows.
+  
+### AI Automation Pipeline | AI-Powered Web Intelligence & Reporting Framework ###
+- Engineered a production-ready automation framework using Python, GPT-4o, httpx, BeautifulSoup, Jinja2, and APScheduler that automates the complete workflow from web scraping and AI analysis to report generation and multi-channel delivery.
+- Developed an asynchronous web scraping engine with httpx and BeautifulSoup to concurrently extract and clean web content, improving data collection efficiency while providing structured input for downstream AI analysis.
+- Built a modular AI analysis pipeline that leverages GPT-4o to generate structured insights—including summaries, key points, sentiment, entities, and relevance scores—and automatically transforms results into polished HTML intelligence reports using Jinja2 templates.
+- Designed a scalable notification and monitoring system integrating SMTP/SendGrid, Slack Block Kit, APScheduler, and a React dashboard, enabling scheduled report delivery, real-time notifications, and centralized access to historical intelligence reports through a clean, service-oriented architecture.
+
+### AI Personal Branding Assistant | AI-Powered Career & Brand Growth Platform ###
+- Engineered a full-stack AI personal branding platform using React 18, Claude (Anthropic API), and CSS-in-JS, enabling professionals to optimize their LinkedIn presence, create platform-specific content, build portfolio case studies, and develop long-term audience growth strategies within a single application.
+- Developed AI-driven workflows that generate recruiter-optimized LinkedIn headlines, About sections, experience bullet points, skill recommendations, and profile improvement suggestions, helping users strengthen their professional brand and increase discoverability.
+- Built an intelligent content generation engine that creates LinkedIn, X (Twitter), Instagram, and newsletter posts with customizable tone, content goals, hashtag strategies, A/B hook variations, and recommended posting schedules, delivering faster, personalized content creation.
+- Designed a modular personal branding suite featuring an AI-powered portfolio case study builder and 30/60/90-day audience growth roadmap, providing actionable, data-driven recommendations through a scalable React architecture with a polished dark-mode user experience.
+
+### Prompt Engineering Evaluation Framework ###
 
 A production-grade harness for testing LLM prompts systematically ,not by eyeballing output. 
 - Four-dimensional weighted scoring (JSON structure, required keys, safety compliance, content rules). 
