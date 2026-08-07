@@ -155,9 +155,10 @@ Full-time remote roles in **Generative AI Engineering**, **Prompt Engineering**,
 ### 🌐 Connect with Me
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <p>
+  <a href="https://linkedin.com/in/sarahsair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:sarahsair@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 </p>
 
 <p align="center"><em>Thanks for stopping by — always open to connecting on AI systems, RAG, and evaluation infrastructure.</em></p>
