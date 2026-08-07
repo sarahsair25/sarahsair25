@@ -49,7 +49,7 @@ Classification, regression, and clustering with scikit-learn · Feature engineer
 
 ### 🚀 Featured Projects
 
-**🔹 [Prompt Engineering Evaluation Framework](https://github.com/sarahsair25/llm-prompt-engineering-case-study****)**
+**🔹 [Prompt Engineering Evaluation Framework](https://github.com/sarahsair25/Prompt-Engineering-Evaluation-system-)**
 
 A production-grade harness for testing LLM prompts systematically — not by eyeballing output. Four-dimensional weighted scoring (JSON structure, required keys, safety compliance, content rules), with a simulated OpenAI provider for continuous testing at zero API cost. 100% pass rate on the test suite, with a 30–40% reduction in hallucinations through structured prompt optimization.
 `Python` `OpenAI API` `Prompt Engineering` `LLM Evaluation`
