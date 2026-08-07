@@ -154,6 +154,7 @@ Full-time remote roles in **Generative AI Engineering**, **Prompt Engineering**,
   <p>
   <a href="https://linkedin.com/in/sarahsair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:sarahsair@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gamma.app/docs/Sarah-Sair-l31sh2m84lg7q4l?mode=doc"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 </p>
 
