@@ -49,32 +49,32 @@ Classification, regression, and clustering with scikit-learn · Feature engineer
 
 ### 🚀 Featured Projects
 
-**🔹 [Prompt Engineering Evaluation Framework](#)**
+**🔹 [Prompt Engineering Evaluation Framework](https://github.com/sarahsair25/llm-prompt-engineering-case-study****)**
 
 A production-grade harness for testing LLM prompts systematically — not by eyeballing output. Four-dimensional weighted scoring (JSON structure, required keys, safety compliance, content rules), with a simulated OpenAI provider for continuous testing at zero API cost. 100% pass rate on the test suite, with a 30–40% reduction in hallucinations through structured prompt optimization.
 `Python` `OpenAI API` `Prompt Engineering` `LLM Evaluation`
 
-**🔹 [AI-Powered Prompt Engineering Evaluation System](#)**
+**🔹 [AI-Powered Prompt Engineering Evaluation System](https://github.com/sarahsair25/Prompt-Engineering-Evaluation-system-)**
 
 A full-stack React app integrated with the Anthropic Claude API that analyzes, scores, compares, and refines LLM prompts using structured metrics — clarity, specificity, robustness, efficiency, and alignment — instead of manual guesswork. Includes prompt versioning, head-to-head comparison workflows, hallucination-risk analysis, and AI-generated optimization suggestions across task types like RAG, summarization, reasoning, and extraction.
 `React 18` `JavaScript` `Tailwind CSS` `Anthropic Claude API` `Prompt Engineering` `AI Evaluation Systems`
 
-**🔹 [AI Personal Branding Assistant — AI-Powered Career & Brand Growth Platform](#)**
+**🔹 [AI Personal Branding Assistant — AI-Powered Career & Brand Growth Platform](https://github.com/sarahsair25/AI-Personal-Branding-Assistant)**
 
 A full-stack AI personal branding platform that helps professionals optimize their LinkedIn presence, create platform-specific content, build portfolio case studies, and develop long-term audience growth strategies in one application. AI-driven workflows generate recruiter-optimized LinkedIn headlines, About sections, experience bullets, and skill recommendations, paired with a content engine that produces LinkedIn, X, Instagram, and newsletter posts with customizable tone, hashtag strategies, and A/B hook variations. Also includes an AI-powered portfolio case study builder and a 30/60/90-day audience growth roadmap, built on a scalable React architecture with a polished dark-mode UI.
 `React 18` `Anthropic Claude API` `CSS-in-JS` `AI Content Generation` `Personal Branding`
 
-**🔹 [AI Resume Optimizer & Cover Letter Generator — AI-Powered Career Application Tool](#)**
+**🔹 [AI Resume Optimizer & Cover Letter Generator — AI-Powered Career Application Tool](https://github.com/sarahsair25/AI-Resume-Optimizer-with-Cover-letter-Generator)**
 
 An AI-powered platform that analyzes resumes against job descriptions, generating match scores, keyword gaps, missing skills, and actionable recommendations for more targeted applications. An ATS-focused optimization engine evaluates keyword alignment, relevance, impact, and formatting, turning generic bullet points into stronger, achievement-driven statements optimized for recruiter visibility. Also includes an AI cover letter generation workflow that combines resume data and job requirements into personalized, editable cover letters with instant regeneration and copy-to-clipboard functionality. Performance is optimized through Claude Haiku-powered PDF extraction, efficient token management, and lightweight text processing for fast parsing and responsive feedback.
 `React` `Anthropic Claude API` `Claude Haiku` `ATS Optimization` `PDF Extraction`
 
-**🔹 [YouTube AI Automation System — End-to-End AI Content Pipeline](#)**
+**🔹 [YouTube AI Automation System — End-to-End AI Content Pipeline](https://github.com/sarahsair25/Youtube-AI-automation-System)**
 
 An end-to-end YouTube automation pipeline that automates the entire content lifecycle from idea generation to video publication, orchestrating Python, OpenAI GPT-4o, DALL·E 3, Whisper, Zapier, and the YouTube Data API. An AI-driven content generation workflow automatically produces video titles, scripts, descriptions, tags, AI-generated thumbnails, and subtitle files, eliminating repetitive manual content creation. Scheduled Zapier workflows integrated with OpenAI services and the YouTube Data API enable fully automated weekly publishing, and a modular, API-first architecture coordinates multiple AI services and external platforms into a scalable, low-cost system for consistently generating and publishing high-quality YouTube content.
 `Python` `OpenAI GPT-4o` `DALL·E 3` `Whisper` `Zapier` `YouTube Data API`
 
-**🔹 [AI Automation Pipeline — AI-Powered Web Intelligence & Reporting Framework](#)**
+**🔹 [AI Automation Pipeline — AI-Powered Web Intelligence & Reporting Framework](https://github.com/sarahsair25/AI-Automation-Pipeline)**
 
 A production-ready automation framework that automates the complete workflow from web scraping and AI analysis to report generation and multi-channel delivery. An asynchronous web scraping engine built with httpx and BeautifulSoup concurrently extracts and cleans web content, feeding a modular AI analysis pipeline that leverages GPT-4o to generate structured insights — summaries, key points, sentiment, entities, and relevance scores — automatically transformed into polished HTML intelligence reports using Jinja2 templates. A scalable notification and monitoring system integrates SMTP/SendGrid, Slack Block Kit, APScheduler, and a React dashboard for scheduled report delivery, real-time notifications, and centralized access to historical reports through a clean, service-oriented architecture.
 `Python` `GPT-4o` `httpx` `BeautifulSoup` `Jinja2` `APScheduler` `React`
