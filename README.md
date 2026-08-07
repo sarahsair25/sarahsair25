@@ -157,4 +157,4 @@ Full-time remote roles in **Generative AI Engineering**, **Prompt Engineering**,
 </p>
 </p>
 
-<p align="center"><em>Thanks for stopping by — always open to connecting on AI systems, RAG, and evaluation infrastructure.</em></p>
+<p align="center"><em>Thanks for stopping by , always open to connecting on AI systems, RAG, and evaluation infrastructure.</em></p>
